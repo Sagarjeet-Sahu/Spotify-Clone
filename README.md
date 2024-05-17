@@ -3,3 +3,4 @@ Build a Full Stack Spotify Clone with Next 13.4, React, Tailwind, Supabase, Post
 To handle the backend, i utilize Supabase, an open-source Firebase alternative built on top of PostgreSQL. Supabase project, create database schemas, and implement authentication, ensuring secure user registration and login processes. 
 Additionally, i integrate Stripe, a leading payment processing platform, to enable premium subscriptions within your Spotify clone. Discover how to handle transactions, securely manage user billing information, and provide a seamless payment experience.
 "# Spotify-Clone" 
+"# Spotify-Clone" 
